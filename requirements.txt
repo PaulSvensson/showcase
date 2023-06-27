@@ -1,0 +1,6 @@
+docopt
+requests
+
+setuptools
+pytest
+pytest_mock
