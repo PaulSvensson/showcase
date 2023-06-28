@@ -9,3 +9,4 @@ and can be executed using pytest.
 
 There is also a shell script prototype,
 which can be run as `./showcase/photo_album.sh`.
+If needed, `python3 -m pip install jq`.
